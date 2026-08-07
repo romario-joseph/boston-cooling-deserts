@@ -1,8 +1,7 @@
 # Who Gets Left Out in the Heat?
 ### Spatial access to Community Health Centers across Boston neighborhoods
 
-**Author:** Romario Joseph, MPH Candidate
-**Affiliation:** Boston University School of Public Health, Department of Epidemiology & Biostatistics
+**Author:** Romario Joseph
 **Course:** Applied Spatial and Temporal Data Processing and Modeling (Spring 2026)
 **Stack:** ArcGIS Pro 3.x, Model Builder, Spatial Statistics Toolbox, R 4.x, `sf`, `spdep`, `tigris`
 
