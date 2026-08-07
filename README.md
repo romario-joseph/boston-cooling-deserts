@@ -136,7 +136,4 @@ ArcGIS Pro Model Builder steps are documented in `arcgis/model_builder_workflow.
 6. Getis, A., & Ord, J. K. (1992). *The Analysis of Spatial Association by Use of Distance Statistics.* Geographical Analysis, 24(3).
 7. Anselin, L. (1995). *Local Indicators of Spatial Association: LISA.* Geographical Analysis, 27(2).
 
-## Contact
-
-**Romario Joseph**, MPH Candidate, Boston University SPH
-rjoseph3@bu.edu, [LinkedIn](https://www.linkedin.com/in/romariojosephpublichealth/)
+## Contact [LinkedIn](https://www.linkedin.com/in/romariojosephpublichealth/)
